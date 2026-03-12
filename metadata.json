@@ -1,0 +1,8 @@
+{
+  "name": "RoadSense: Smart Road Management System",
+  "description": "An AI-driven traffic management dashboard featuring real-time analysis, adaptive signal control, predictive safety analytics, and emergency response coordination.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
